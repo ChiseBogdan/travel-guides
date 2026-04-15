@@ -19,3 +19,5 @@
 ## 🧾 Budget
 
 ## ❤️ Why This Trip?
+
+## 📸 Photos
