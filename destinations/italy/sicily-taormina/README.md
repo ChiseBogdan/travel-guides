@@ -156,37 +156,37 @@ A complete travel plan for an adventurous and romantic getaway in **Taormina, Si
 
 ## 📸 Photos
 
-![Albatros Beach Hotel](images/room-1.jpg)
+![Albatros Beach Hotel](images/room-1.jpg)<br>
 *Albatros Beach Hotel, our accommodation for the trip*
 
 
-![Albatros Hotel Beach](images/beach-1.jpg)
+![Albatros Hotel Beach](images/beach-1.jpg)<br>
 *The beach at Albatros Hotel*
 
 
-![Albatros Hotel Beach](images/beach-2.jpg)
-*Another view of the Albatros Hotel beach*
-
-
-![Etna](images/etna-1.jpg)
-*Mount Etna, the active volcano dominating the landscape*
-
-
-![Isola Bella Viewpoint](images/isola-bella-viewpoint-taormina-1.jpg)
-*The iconic Isola Bella viewpoint in Taormina*
-
-
-![Letojanni](images/letojanni-1.jpg)
+![Letojanni](images/letojanni-1.jpg)<br>
 *Letojanni, a relaxed and charming beach town*
 
 
-![Piazza IX Aprile](images/piaza-IX-Aprile-1.jpg)
+![Albatros Hotel Beach](images/beach-2.jpg)<br>
+*Another view of the Albatros Hotel beach*
+
+
+![Etna](images/etna-1.jpg)<br>
+*Mount Etna, the active volcano dominating the landscape*
+
+
+![Isola Bella Viewpoint](images/isola-bella-viewpoint-taormina-1.jpg)<br>
+*The iconic Isola Bella viewpoint in Taormina*
+
+
+![Piazza IX Aprile](images/piaza-IX-Aprile-1.jpg)<br>
 *Piazza IX Aprile, Taormina's stunning main square*
 
 
-![Piazza IX Aprile](images/piaza-IX-Aprile-2.jpg)
+![Piazza IX Aprile](images/piaza-IX-Aprile-2.jpg)<br>
 *Piazza IX Aprile at its most scenic*
 
 
-![River Trekking Alcantara Gorges](images/river-trekking-alcantara-gorges.jpg)
+![River Trekking Alcantara Gorges](images/river-trekking-alcantara-gorges.jpg)<br>
 *River trekking through the dramatic Alcantara Gorges*
