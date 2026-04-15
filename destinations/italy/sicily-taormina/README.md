@@ -156,29 +156,37 @@ A complete travel plan for an adventurous and romantic getaway in **Taormina, Si
 
 ## 📸 Photos
 
+![Albatros Beach Hotel](images/room-1.jpg)
+*Albatros Beach Hotel, our accommodation for the trip*
+
+
 ![Albatros Hotel Beach](images/beach-1.jpg)
 *The beach at Albatros Hotel*
+
 
 ![Albatros Hotel Beach](images/beach-2.jpg)
 *Another view of the Albatros Hotel beach*
 
+
 ![Etna](images/etna-1.jpg)
 *Mount Etna, the active volcano dominating the landscape*
+
 
 ![Isola Bella Viewpoint](images/isola-bella-viewpoint-taormina-1.jpg)
 *The iconic Isola Bella viewpoint in Taormina*
 
+
 ![Letojanni](images/letojanni-1.jpg)
 *Letojanni, a relaxed and charming beach town*
+
 
 ![Piazza IX Aprile](images/piaza-IX-Aprile-1.jpg)
 *Piazza IX Aprile, Taormina's stunning main square*
 
+
 ![Piazza IX Aprile](images/piaza-IX-Aprile-2.jpg)
 *Piazza IX Aprile at its most scenic*
 
+
 ![River Trekking Alcantara Gorges](images/river-trekking-alcantara-gorges.jpg)
 *River trekking through the dramatic Alcantara Gorges*
-
-![Albatros Beach Hotel](images/room-1.jpg)
-*Albatros Beach Hotel, our accommodation for the trip*
